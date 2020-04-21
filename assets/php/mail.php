@@ -17,7 +17,7 @@
         }
 
         // Set the recipient email address.
-        $recipient = "info@brainartinternational.com";
+        $recipient = "udithasm@gmail.com";
 
         // Set the email subject.
         $subject = "Mail From $name";
