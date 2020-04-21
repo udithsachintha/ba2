@@ -1,0 +1,15 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 19/04/2020 17:25
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src:url("./Flaticon.eot") format("embedded-opentype"),url("./Flaticon.woff") format("woff"),url("./Flaticon.ttf") format("truetype"),url("./Flaticon.svg#Flaticon") format("svg");font-weight:400;font-style:normal}@media screen and (-webkit-min-device-pixel-ratio:0){@font-face{font-family:"Flaticon";src:url("./Flaticon.svg#Flaticon") format("svg")}}[class^=flaticon-]:before,[class*=" flaticon-"]:before,[class^=flaticon-]:after,[class*=" flaticon-"]:after{font-family:Flaticon;speak:none;font-style:normal;font-weight:400;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}
+
+.flaticon-brain:before { content: "\f100"; }
+.flaticon-game-control:before { content: "\f101"; }
+.flaticon-browser:before { content: "\f102"; }
+.flaticon-programming:before { content: "\f103"; }
+.flaticon-bullhorn:before { content: "\f104"; }
+.flaticon-computer:before { content: "\f105"; }
