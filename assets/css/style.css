@@ -3313,7 +3313,7 @@ a.scroll-top.show {
 }
 /* ... */
 .hero-slider__title2 {
-	font-size: 70px;
+	font-size: 50px;
 	line-height: 1.2;
 	color: #CA3433;
 	margin-bottom: 40px;
@@ -3353,6 +3353,13 @@ a.scroll-top.show {
 .hero-slider__btn:active {
 	color: #ffffff;
 	background-color: #CA3433;
+	border-color: #CA3433;
+}
+.hero-slider__btn2:hover,
+.hero-slider__btn2:focus,
+.hero-slider__btn2:active {
+	color: #CA3433;
+	background-color: #ffffff;
 	border-color: #CA3433;
 }
 
